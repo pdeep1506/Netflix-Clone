@@ -25,7 +25,7 @@ const Row = (props) => {
     <div className='row_posters'>
     {
         movieData.map((item,j)=>{
-            console.log('item',item)
+            // console.log('item',item)
             return <>
          <img src={`${base_url}${props.isLargeRow? item.poster_path: item.backdrop_path}`}  
          className={`row_poster ${props.isLargeRow? 'row_posterLarge':''}`} 
