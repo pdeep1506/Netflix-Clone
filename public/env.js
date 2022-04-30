@@ -1,10 +1,11 @@
 window.env = {
   "ALLUSERSPROFILE": "C:\\ProgramData",
   "ANDROID_HOME": "C:\\Users\\Deep1\\AppData\\Local\\Android\\Sdk",
+  "api_key": "b98987b2c54cf0ccb98b4691a87115fa",
   "APPDATA": "C:\\Users\\Deep1\\AppData\\Roaming",
   "ChocolateyInstall": "C:\\ProgramData\\chocolatey",
   "ChocolateyLastPathUpdate": "132945193247421969",
-  "CHROME_CRASHPAD_PIPE_NAME": "\\\\.\\pipe\\crashpad_10812_PAYYGSFIAVGKPFQU",
+  "CHROME_CRASHPAD_PIPE_NAME": "\\\\.\\pipe\\crashpad_12272_OYBEBNJPLWBFMSKY",
   "COLOR": "1",
   "COLORTERM": "truecolor",
   "CommonProgramFiles": "C:\\Program Files\\Common Files",
