@@ -1,6 +1,6 @@
 import env from "react-dotenv";
 
-const api_key = env.TMDB_KEY
+const api_key = 'b98987b2c54cf0ccb98b4691a87115fa'
 
 const requests = {
     fetchTrending: `/trending/all/week?api_key=${api_key}&language=en-us`,
